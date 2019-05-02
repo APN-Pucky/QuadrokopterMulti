@@ -4,9 +4,9 @@ Old School Project.
 
 Start QuadroMulti.jar or Main.java and select a map.
 ![](https://raw.githubusercontent.com/APN-Pucky/QuadrokopterMulti/master/img/example.png)
-### Controls
+## Controls
 
-#### Player 1
+### Player 1
 
 Move: W A S D
 
@@ -16,7 +16,7 @@ Rotate: F H
 
 Shoot: R
 
-#### Player 2
+### Player 2
 
 Move: Arrows
 
@@ -26,7 +26,7 @@ Rotate: 4 6
 
 Shoot: 7
 
-### Maps
+## Maps
 
 Maps can be configured in the Maps folder by changing welt.conf. textures should be in the same folder.
 hoehen.jpg set the ground heights. (black == low, white == high)
