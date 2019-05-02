@@ -2,7 +2,7 @@
 
 Old School Project.
 
-QuadroMulti.zip contains all needed files.
+QuadrokopterMulti.zip contains all needed files.
 
 Start QuadroMulti.jar or Main.java and select a map.
 ![](https://raw.githubusercontent.com/APN-Pucky/QuadrokopterMulti/master/img/example.png)
